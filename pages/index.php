@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div class="layout">
-            <div>
+            <div class="pesquisa">
                 <input type="text">
                 <button>Pesquisar</button>
             </div>
@@ -25,6 +25,7 @@
                     <button>Filtrar</button>
                 </div>
                 <div class="conteudo">
+                    <?php for($i = 0; $i < 15; $i++): ?>
                     <div class="card">
                         <img src="https://lh3.googleusercontent.com/proxy/Ojf_nYSR-GwslmcZVexqkijlz2SVM-Xx0CirukSByp9WVCnOwv-rLz2s8KDRiIINjgJlE2uvrEMeTS7yRE-V5Dzscl-wYhu78V1vZ-e_I1lpU9nORInx3l6wFns" alt="">
                         <h3>Titulo</h3>
@@ -33,6 +34,7 @@
                             <p>2006</p>
                         </div>
                     </div>
+                    <?php endfor; ?>
                 </div>
             </div>
         </div>
