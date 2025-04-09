@@ -61,8 +61,27 @@ header{
     flex-direction: row;
 }
 
-.visivel{
-    
+.carrosel2{
+    width: 90%;
+    height: 350px;
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.container-carrosel{
+    display: flex;
+    width: 3500px;
+}
+
+.container-carrosel .card{
+    margin-right: 30px;
+}
+
+.items-carrosel2{
+    display: flex;
+    overflow-x: auto;
+    scrollbar-width: none;
+    justify-content: space-between;
 }
 
 .invisivel{
@@ -127,7 +146,8 @@ header{
 
 .card{
     text-align: center;
-    box-shadow: 2px 2px 8px 0px #00000057;
+    /*box-shadow: 2px 2px 8px 0px #00000057;*/
+    border: #000000 solid 1px;
     border-radius: 5px;
     width: 200px;
 }
