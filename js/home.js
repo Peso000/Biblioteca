@@ -17,7 +17,7 @@ function proximo(){
 
     console.log(cardsVisiveis[cardsVisiveis.length-1].id, cardsInvisiveis[cardsInvisiveis.length-1].id)
 
-    if(cardsVisiveis[cardsVisiveis.length-1].id <= cardsInvisiveis[cardsInvisiveis.length-1].id){
+    if(cardsVisiveis[cardsVisiveis.length-1].id <= cardsInvisiveis[cardsInvisiveis.length-1].id & numItemsRemove < 6){
         ++numItems;
         ++numItemsRemove;
         ocultaTodos();
