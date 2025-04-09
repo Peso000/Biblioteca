@@ -9,10 +9,10 @@
         echo $dado['autor'] . "</br>";
         echo "</br>";
     }*/
-    
+  
     include_once("../component/head.php");
     include_once("../component/header.php");
-    //include_once("../component/carrosel.php");
+    include_once("../component/carrosel.php");
     include_once("../component/conteudo.php");
     include_once("../component/footer.php");
 

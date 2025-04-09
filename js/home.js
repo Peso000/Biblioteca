@@ -1,4 +1,4 @@
-let numItems = 8;
+let numItems = 6;
 let numItemsRemove = 0;
 
 
@@ -11,22 +11,22 @@ function anterior(){
 }
 
 function proximo(){
-    let items = Array.from(document.querySelectorAll(".invisivel.card"));
+    let cardsInvisiveis = Array.from(document.querySelector(".carrosel").querySelectorAll(".card"));
+    let cardsVisiveis = Array.from(document.querySelector(".carrosel").querySelectorAll(".card"));
     //let itemsVisiveis = items.filter((c, i) => i < numItems && c.className == "invisivel card").length;
 
-    //console.log(items.length, itemsVisiveis+1)
+    console.log(cardsVisiveis[cardsVisiveis.length-1].id, cardsInvisiveis[cardsInvisiveis.length-1].id)
 
-    if(items.length > 0){
+    if(cardsVisiveis[cardsVisiveis.length-1].id <= cardsInvisiveis[cardsInvisiveis.length-1].id){
         ++numItems;
         ++numItemsRemove;
         ocultaTodos();
         deixaVisivel();
-        console.log("proximot")
     }
 }
 
 function ocultaTodos(){
-    let items = Array.from(document.querySelector(".carrosel").querySelectorAll(".carrosel.card"));
+    let items = Array.from(document.querySelector(".carrosel").querySelectorAll(".card"));
 
     items.forEach(c => c.removeAttribute("class"));
     items.forEach(c => c.setAttribute("class", "invisivel card"));
@@ -39,8 +39,6 @@ function deixaVisivel(){
     for(let i = 0; i < numItemsRemove; i++){
         itemsVisiveis.shift();
     }
-
-    console.log(items)
 
     itemsVisiveis.forEach(c => c.removeAttribute("class"));
     itemsVisiveis.forEach(c => c.setAttribute("class", "visivel card"));

@@ -1,8 +1,11 @@
 <?php 
 
+    $bola = null;
+    $teste = $bola??null;
+
     $jsonString = file_get_contents("../bd/livros_customizados.json"); //Lê o arquivo json e transforma em string
     $livros = json_decode($jsonString, true); //Transforma a string em um array associativo
-
+   
 ?>
 
 <div class="layout">

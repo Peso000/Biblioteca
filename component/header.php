@@ -5,7 +5,7 @@
     </div>
     <div>
         <div class="filtros">
-            <form action="" method="get">
+            <form action="./livro.php" method="get">
                 <button name="filtro" value="ficcao">Ficção</button>
                 <button name="filtro" value="acao">Ação</button>
                 <button name="filtro" value="aventura">Aventura</button>
