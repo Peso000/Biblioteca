@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anoPublicacao": 1949,
+        "genero": "ficcao",
+        "imagem": "https://m.media-amazon.com/images/I/61t0bwt1s3L._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Em um futuro distópico, o regime totalitário do Partido controla todas as formas de pensamento. Winston Smith, um funcionário do governo, começa a questionar o sistema e busca liberdade de pensamento, enfrentando as terríveis consequências de sua rebeldia."
+    },
+    {
+        "id": 2,
+        "titulo": "Jogos Vorazes",
+        "autor": "Suzanne Collins",
+        "anoPublicacao": 2008,
+        "genero": "acao",
+        "imagem": "https://imagens.disal.com.br/produtos/ampliada/9339381.jpg",
+        "sinopseDetalhada": "Em um futuro pós-apocalíptico, Katniss Everdeen se voluntaria para participar dos Jogos Vorazes, uma competição mortal transmitida ao vivo. Ela luta pela sobrevivência contra outros tributos e desafia o governo opressor de Panem."
+    },
+    {
+        "id": 3,
+        "titulo": "As Aventuras de Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "anoPublicacao": 1892,
+        "genero": "aventura",
+        "imagem": "https://m.media-amazon.com/images/I/71pUxLqTOAL.jpg",
+        "sinopseDetalhada": "Uma coletânea de contos protagonizados pelo detetive Sherlock Holmes e seu fiel companheiro Dr. Watson, resolvendo casos misteriosos na Londres vitoriana com inteligência e observação aguçada."
+    },
+    {
+        "id": 4,
+        "titulo": "O Iluminado",
+        "autor": "Stephen King",
+        "anoPublicacao": 1977,
+        "genero": "terror",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/22/Shining.png",
+        "sinopseDetalhada": "Jack Torrance aceita um emprego como zelador de inverno em um hotel isolado, levando sua família com ele. Quando forças sobrenaturais despertam, a sanidade de Jack é colocada à prova em um pesadelo de horror psicológico."
+    },
+    {
+        "id": 5,
+        "titulo": "Batman: Ano Um",
+        "autor": "Frank Miller",
+        "anoPublicacao": 1987,
+        "genero": "hq",
+        "imagem": "https://m.media-amazon.com/images/I/61LCJLgyKhL._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Esta HQ reconta o início da carreira de Bruce Wayne como Batman, mostrando sua luta contra o crime e a corrupção em Gotham City. Paralelamente, segue o tenente Gordon, também recém-chegado à cidade."
+    },
+    {
+        "id": 6,
+        "titulo": "One Piece Vol. 1",
+        "autor": "Eiichiro Oda",
+        "anoPublicacao": 1997,
+        "genero": "manga",
+        "imagem": "https://m.media-amazon.com/images/I/716EGgqzyOL.jpg",
+        "sinopseDetalhada": "Luffy, um jovem com o sonho de se tornar o Rei dos Piratas, parte em uma jornada pelos mares em busca do lendário tesouro One Piece. Ele enfrenta desafios épicos e recruta companheiros leais ao longo do caminho."
+    },
+    {
+        "id": 7,
+        "titulo": "Pai Rico, Pai Pobre",
+        "autor": "Robert T. Kiyosaki",
+        "anoPublicacao": 1997,
+        "genero": "empreendedorismo",
+        "imagem": "https://m.media-amazon.com/images/I/71V4lNR2gKL.jpg",
+        "sinopseDetalhada": "Neste livro, Kiyosaki compartilha as lições financeiras que aprendeu com seu 'pai rico' e contrasta com os ensinamentos do 'pai pobre'. Ele ensina princípios sobre investimentos, ativos, passivos e independência financeira."
+    },
+    {
+        "id": 8,
+        "titulo": "O Poder do Hábito",
+        "autor": "Charles Duhigg",
+        "anoPublicacao": 2012,
+        "genero": "autoajuda",
+        "imagem": "https://m.media-amazon.com/images/I/815iPX0SgkL.jpg",
+        "sinopseDetalhada": "Explora como os hábitos funcionam, como são formados e como podem ser modificados. Duhigg apresenta estudos de caso e estratégias práticas para mudar comportamentos e transformar a vida pessoal e profissional."
+    },
+    {
+        "id": 9,
+        "titulo": "O Demônio do Meio-Dia",
+        "autor": "Andrew Solomon",
+        "anoPublicacao": 2001,
+        "genero": "psicologia",
+        "imagem": "https://m.media-amazon.com/images/I/A1uqnY6fJ0L._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Um estudo profundo e pessoal sobre a depressão, combinando pesquisa científica, histórias de pacientes e experiências do próprio autor. Um relato sensível e informativo sobre a mente humana e o sofrimento psicológico."
+    },
+    {
+        "id": 10,
+        "titulo": "Neuromancer",
+        "autor": "William Gibson",
+        "anoPublicacao": 1984,
+        "genero": "ficcao",
+        "imagem": "https://m.media-amazon.com/images/I/91Bx5ilP+EL.jpg",
+        "sinopseDetalhada": "Case, um hacker no submundo da Matrix, é recrutado para um último trabalho que pode redefinir a inteligência artificial. A história mistura tecnologia futurista, ciberespaço e realidades alternativas."
+    },
+    {
+        "id": 11,
+        "titulo": "Missão Impossível: Protocolo Fantasma",
+        "autor": "Brad Ferguson",
+        "anoPublicacao": 2011,
+        "genero": "acao",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBdLWiYH1seZCfW3eNNyUy8MJ053YRW80NA&s",
+        "sinopseDetalhada": "Baseado no filme homônimo, o livro acompanha Ethan Hunt e sua equipe em uma corrida contra o tempo para impedir uma catástrofe nuclear após serem incriminados por um atentado terrorista."
+    },
+    {
+        "id": 12,
+        "titulo": "A Ilha do Tesouro",
+        "autor": "Robert Louis Stevenson",
+        "anoPublicacao": 1883,
+        "genero": "aventura",
+        "imagem": "https://www.lpm.com.br/livros/imagens/ilha_do_tesouro__a_9788525411327_hd.jpg",
+        "sinopseDetalhada": "Jim Hawkins embarca em uma jornada pelos mares em busca de um tesouro escondido, enfrentando piratas traiçoeiros e perigos inimagináveis. Uma das mais clássicas histórias de piratas já escritas."
+    },
+    {
+        "id": 13,
+        "titulo": "It: A Coisa",
+        "autor": "Stephen King",
+        "anoPublicacao": 1986,
+        "genero": "terror",
+        "imagem": "https://br.web.img3.acsta.net/pictures/17/03/30/22/44/345288.jpg",
+        "sinopseDetalhada": "Em Derry, crianças desaparecem misteriosamente. Um grupo de amigos confronta uma entidade maligna que assume a forma de um palhaço. Anos depois, eles retornam à cidade para enfrentar novamente o terror."
+    },
+    {
+        "id": 14,
+        "titulo": "V de Vingança",
+        "autor": "Alan Moore",
+        "anoPublicacao": 1988,
+        "genero": "hq",
+        "imagem": "https://m.media-amazon.com/images/I/71RccWOPFKL._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Numa Inglaterra distópica, V, um vigilante mascarado, luta contra um governo totalitário usando táticas de guerrilha. Uma história sobre resistência, identidade e liberdade."
+    },
+    {
+        "id": 15,
+        "titulo": "Naruto Vol. 1",
+        "autor": "Masashi Kishimoto",
+        "anoPublicacao": 1999,
+        "genero": "manga",
+        "imagem": "https://m.media-amazon.com/images/I/91xUwI2UEVL.jpg",
+        "sinopseDetalhada": "Naruto Uzumaki é um jovem ninja que busca ser reconhecido por sua vila e se tornar Hokage. Ele enfrenta desafios, aprende sobre amizade e descobre os segredos de sua origem."
+    },
+    {
+        "id": 16,
+        "titulo": "A Startup Enxuta",
+        "autor": "Eric Ries",
+        "anoPublicacao": 2011,
+        "genero": "empreendedorismo",
+        "imagem": "https://m.media-amazon.com/images/I/81NATRL+10L._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "O livro propõe uma abordagem inovadora para criar empresas mais eficientes. Ries apresenta o conceito de 'mínimo produto viável' e ciclos de feedback rápido para alcançar o sucesso com menos desperdício."
+    },
+    {
+        "id": 17,
+        "titulo": "Ansiedade: Como Enfrentar o Mal do Século",
+        "autor": "Augusto Cury",
+        "anoPublicacao": 2013,
+        "genero": "autoajuda",
+        "imagem": "https://m.media-amazon.com/images/I/71K63fWqCAL.jpg",
+        "sinopseDetalhada": "Cury explica como a ansiedade é provocada pela superatividade da mente e como é possível enfrentá-la com técnicas de controle emocional, promovendo uma vida mais equilibrada."
+    },
+    {
+        "id": 18,
+        "titulo": "O Corpo Fala",
+        "autor": "Pierre Weil e Roland Tompakow",
+        "anoPublicacao": 1986,
+        "genero": "psicologia",
+        "imagem": "https://m.media-amazon.com/images/I/81bs2U1-CrL.jpg",
+        "sinopseDetalhada": "O livro analisa como expressões corporais revelam emoções e pensamentos. Ensina a interpretar gestos, posturas e expressões faciais, aprofundando a compreensão da comunicação não verbal."
+    },
+    {
+        "id": 19,
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "anoPublicacao": 1953,
+        "genero": "ficcao",
+        "imagem": "https://m.media-amazon.com/images/I/71OFqSRFDgL._UF894,1000_QL80_.jpg",
+        "sinopseDetalhada": "Em um futuro em que livros são proibidos, bombeiros são responsáveis por queimá-los. Guy Montag, um desses bombeiros, começa a questionar a sociedade e parte em busca de conhecimento proibido."
+    },
+    {
+        "id": 20,
+        "titulo": "Bleach Vol. 1",
+        "autor": "Tite Kubo",
+        "anoPublicacao": 2001,
+        "genero": "manga",
+        "imagem": "https://m.media-amazon.com/images/I/61aSap+A1iL.jpg",
+        "sinopseDetalhada": "Ichigo Kurosaki, um adolescente com a habilidade de ver espíritos, acidentalmente se torna um Ceifador de Almas. Ele deve proteger os vivos dos espíritos malignos chamados Hollows e enfrentar desafios sobrenaturais."
+    }
+]
+  

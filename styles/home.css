@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -19,6 +21,52 @@ header{
     padding: 10px 0 10px 0;
     display: flex;
     justify-content: center;
+}
+
+.limpa-filtro{
+    position: absolute;
+    right: 40px;
+    top: 130px;
+    background-color: #000000;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:active, a:visited, a{
+    color: white;
+    text-decoration: none;
+}
+
+.login{
+    position: absolute;
+    right: 30px;
+    top: 16px;
+    width: 60px;
+    height: 30px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.novoLivro{
+    position: absolute;
+    left: 30px;
+    top: 120px;
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
 }
 
 .barra-pesquisa{
@@ -158,15 +206,15 @@ header{
     display: flex;
     flex-direction: column;
     gap: 4px;
-    padding-left: 5px;
     text-align: start;
-    padding-bottom: 4px;
+    padding: 10px 0 4px 17px;
 }
 
 .card{
     text-align: center;
-    /*box-shadow: 2px 2px 8px 0px #00000057;*/
-    border: #000000 solid 1px;
+    font-family: Inter;
+    box-shadow: 2px 2px 8px 0px #00000057;
+    border: #b1b1b1 solid 1px;
     border-radius: 5px;
     width: 200px;
 }
@@ -175,5 +223,20 @@ header{
     width: 90%;
     height: 200px;
     margin-top: 8px;
-    object-fit: cover;
+    object-fit:contain;
+    margin-bottom: 5px;
+}
+
+.card button{
+    background-color: #1696A5;
+    border-radius: 5px;
+    color: white;
+    margin: 10px 0 10px;
+    height: 40px;
+    width: 170px;
+    cursor: pointer;
+}
+
+.card button:hover{
+    background-color: #117783;
 }

@@ -1,25 +1,33 @@
 <?php 
-
-    $bola = null;
-    $teste = $bola??null;
-
-    $jsonString = file_get_contents("../bd/livros_customizados.json"); //Lê o arquivo json e transforma em string
+    $jsonString = file_get_contents("../bd/banco.json"); //Lê o arquivo json e transforma em string
     $livros = json_decode($jsonString, true); //Transforma a string em um array associativo
    
+    function verificaLivro($livros){
+        if(isset($_GET['filtro']) && $_GET['filtro'] !== ''){
+            $filtro = $_GET['filtro'];
+            return array_filter($livros, function($livros) use ($filtro){ //O array_filter é usado para filtrar o array e o use traz a variavel de fora da função pra dentro
+                return $livros['genero'] == $filtro;
+            });
+        }
+        
+        return $livros;
+    }
+
+    $livrosFiltrados = verificaLivro($livros);
 ?>
 
 <div class="layout">
-    <div class="conteudo">
-        <?php for($i = 0; $i < 15; $i++): ?>
+    <form action="../pages/livro.php" class="conteudo">
+        <?php foreach($livrosFiltrados as $livro): ?>
         <div class="card">
-            <img src="https://lh3.googleusercontent.com/proxy/Ojf_nYSR-GwslmcZVexqkijlz2SVM-Xx0CirukSByp9WVCnOwv-rLz2s8KDRiIINjgJlE2uvrEMeTS7yRE-V5Dzscl-wYhu78V1vZ-e_I1lpU9nORInx3l6wFns" alt="">
-            <h3><?php echo strlen($livros[$i]['titulo']) > 15? substr($livros[$i]['titulo'], 0, 15). "...": $livros[$i]['titulo'] ?></h3>
+            <img src="<?php echo $livro['imagem']; ?>" alt="imagem_do_livro">
+            <h3><?php echo strlen($livro['titulo']) > 15? substr($livro['titulo'], 0, 15). "...": $livro['titulo'] ?></h3>
             <div class="informacoes">
-                <p><?php echo $livros[$i]['autor']; ?></p>
-                <p><?php echo $livros[$i]['ano_de_publicacao']; ?></p>
+                <p><?php echo $livro['anoPublicacao']; ?></p>
+                <p><?php echo $livro['autor']; ?></p>
             </div>
-            <button>Comprar</button>
+            <button name="id" value="<?php echo $livro['id']; ?>">Ver mais</button>
         </div>
-        <?php endfor; ?>
-    </div>
+        <?php endforeach; ?>
+        </form>
 </div>
