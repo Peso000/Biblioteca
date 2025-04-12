@@ -7,7 +7,7 @@
     </div>
     <div>
         <div class="filtros">
-            <form action="" method="GET">
+            <form action="../pages/index.php" method="GET">
                 <button name="filtro" value="ficcao">Ficção</button>
                 <button name="filtro" value="acao">Ação</button>
                 <button name="filtro" value="aventura">Aventura</button>
@@ -21,10 +21,10 @@
         </div>
     </div>
     <?php if(isset($_SESSION['usuario']) && $_SESSION['usuario'] == "admin"): ?>
-        <a href="../pages/index.php" class="login">Logout</a>
+        <a href="../pages/index.php" class="btnLogin">Logout</a>
         <a href="../pages/cadastroLivro.php" class="novoLivro">Novo Livro</a>
     <?php else: ?>
-        <a href="../pages/login.php" class="login">Login</a>
+        <a href="../pages/login.php" class="btnLogin">Login</a>
     <?php endif; ?>
     <?php if(isset($_GET['filtro'])): ?>
         <a href="../pages/index.php" class="limpa-filtro">Limpar filtros</a>

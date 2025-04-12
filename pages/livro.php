@@ -9,22 +9,23 @@
     }
 
     include_once("../component/head.php");
+    include_once("../component/header.php");
 ?>
-
-<div>
-    <img src="<?php echo $livroFiltrado['imagem']; ?>" alt="">
-    <div>
-        <h1><?php echo $livroFiltrado['titulo']; ?></h1>
-        <div>
-            <p>Autor</p>
-            <p><?php echo $livroFiltrado['autor']; ?></p>
+<div class="box-livro">
+    <div class="livro">
+        <img src="<?php echo $livroFiltrado['imagem']; ?>" alt="">
+        <div class="informacoes-livro">
+            <h1><?php echo $livroFiltrado['titulo']; ?></h1>
+            <div class="dividir">
+                <p><strong>Autor</strong></p>
+                <p><?php echo $livroFiltrado['autor']; ?></p>
+            </div>
+            <div class="dividir">
+                <p><strong>Ano de publicação</strong></p>
+                <p><?php echo $livroFiltrado['anoPublicacao']; ?></p>
+            </div>
+            <p class="sinopse"><?php echo $livroFiltrado['sinopseDetalhada']; ?></p>
         </div>
-        <div>
-            <p>Ano de publicação</p>
-            <p><?php echo $livroFiltrado['anoPublicacao']; ?></p>
-        </div>
-        <p><?php echo $livroFiltrado['sinopseDetalhada']; ?></p>
     </div>
 </div>
-
 <?php include_once("../component/footer.php") ?>

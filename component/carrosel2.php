@@ -1,3 +1,5 @@
+
+<h2 class="titulo-carousel">Livros de ação</h2>
 <div class="box-carousel">
     <div class="carrosel2">
         <button onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
