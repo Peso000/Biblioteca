@@ -178,6 +178,97 @@
         "genero": "manga",
         "imagem": "https://m.media-amazon.com/images/I/61aSap+A1iL.jpg",
         "sinopseDetalhada": "Ichigo Kurosaki, um adolescente com a habilidade de ver espíritos, acidentalmente se torna um Ceifador de Almas. Ele deve proteger os vivos dos espíritos malignos chamados Hollows e enfrentar desafios sobrenaturais."
+    },
+    {
+        "id": 21,
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "anoPublicacao": 1945,
+        "genero": "ficcao",
+        "imagem": "https://m.media-amazon.com/images/I/91BsZhxCRjL._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Uma sátira política em forma de fábula, onde os animais de uma fazenda se rebelam contra seus donos humanos e tentam criar uma sociedade igualitária. Com o tempo, a nova ordem se corrompe, refletindo críticas ao totalitarismo."
+    },
+    {
+        "id": 22,
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "anoPublicacao": 1965,
+        "genero": "ficcao",
+        "imagem": "https://m.media-amazon.com/images/I/81zN7udGRUL.jpg",
+        "sinopseDetalhada": "Em um futuro distante, o jovem Paul Atreides deve sobreviver no planeta desértico Arrakis, onde se trava uma guerra pelo controle da especiaria melange, a substância mais valiosa do universo. Um épico de política, religião e ecologia."
+    },
+    {
+        "id": 23,
+        "titulo": "Percy Jackson e o Ladrão de Raios",
+        "autor": "Rick Riordan",
+        "anoPublicacao": 2005,
+        "genero": "aventura",
+        "imagem": "https://m.media-amazon.com/images/I/61JenSx3wKL._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Percy Jackson descobre que é filho de um deus grego e é acusado de roubar o raio de Zeus. Ele embarca em uma jornada cheia de monstros mitológicos para provar sua inocência e restaurar a paz entre os deuses."
+    },
+    {
+        "id": 24,
+        "titulo": "Coraline",
+        "autor": "Neil Gaiman",
+        "anoPublicacao": 2002,
+        "genero": "terror",
+        "imagem": "https://m.media-amazon.com/images/S/pv-target-images/411f6c6a50af1ac7ee2553b295186d103d2c690048f254a9fe168731cde8813a.jpg",
+        "sinopseDetalhada": "Coraline descobre uma porta secreta em sua casa que a leva para uma realidade paralela onde tudo parece melhor — até que ela percebe os perigos sombrios escondidos por trás da fachada perfeita."
+    },
+    {
+        "id": 25,
+        "titulo": "Watchmen",
+        "autor": "Alan Moore",
+        "anoPublicacao": 1987,
+        "genero": "hq",
+        "imagem": "https://m.media-amazon.com/images/S/pv-target-images/80b52745fa038ddfcd474da5cd01cd19fa179aaf57912913ca8b70634302a891.jpg",
+        "sinopseDetalhada": "Uma desconstrução do conceito de super-heróis, ambientada em um mundo alternativo onde vigilantes mascarados influenciam eventos históricos. Após o assassinato de um herói aposentado, segredos obscuros começam a emergir."
+    },
+    {
+        "id": 26,
+        "titulo": "Death Note Vol. 1",
+        "autor": "Tsugumi Ohba e Takeshi Obata",
+        "anoPublicacao": 2003,
+        "genero": "manga",
+        "imagem": "https://m.media-amazon.com/images/I/81IR1i0DpaL.jpg",
+        "sinopseDetalhada": "Light Yagami encontra um caderno sobrenatural que permite matar qualquer pessoa cujo nome seja escrito nele. Ele inicia uma cruzada para eliminar criminosos, mas atrai a atenção de um detetive genial chamado L."
+    },
+    {
+        "id": 27,
+        "titulo": "O Jeito Harvard de Ser Feliz",
+        "autor": "Shawn Achor",
+        "anoPublicacao": 2010,
+        "genero": "autoajuda",
+        "imagem": "https://m.media-amazon.com/images/I/616BWqxn+QL.jpg",
+        "sinopseDetalhada": "Baseado em estudos realizados em Harvard, o livro mostra como a felicidade pode ser cultivada para melhorar o desempenho pessoal e profissional. Achor propõe hábitos e exercícios simples para uma vida mais plena."
+    },
+    {
+        "id": 28,
+        "titulo": "Mindset: A Nova Psicologia do Sucesso",
+        "autor": "Carol S. Dweck",
+        "anoPublicacao": 2006,
+        "genero": "psicologia",
+        "imagem": "https://m.media-amazon.com/images/I/71Ils+Co9fL.jpg",
+        "sinopseDetalhada": "A autora apresenta o conceito de mindset fixo versus mindset de crescimento, explicando como nossas crenças sobre nossas capacidades influenciam diretamente nosso sucesso e desenvolvimento pessoal."
+    },
+    {
+        "id": 29,
+        "titulo": "O Lobo de Wall Street",
+        "autor": "Jordan Belfort",
+        "anoPublicacao": 2007,
+        "genero": "empreendedorismo",
+        "imagem": "https://m.media-amazon.com/images/S/pv-target-images/1d2c8336fba58368c85f3d2f73bf799c2255139cff448d19b3cd31d9d70a136e.png",
+        "sinopseDetalhada": "Autobiografia de Jordan Belfort, um corretor da bolsa de valores que enriqueceu rapidamente com práticas ilegais. O livro retrata sua ascensão meteórica, festas extravagantes e a queda após investigações do FBI."
+    },
+    {
+        "id": 30,
+        "titulo": "Fullmetal Alchemist Vol. 1",
+        "autor": "Hiromu Arakawa",
+        "anoPublicacao": 2001,
+        "genero": "manga",
+        "imagem": "https://m.media-amazon.com/images/I/61yvu+BbxvL._AC_UF1000,1000_QL80_.jpg",
+        "sinopseDetalhada": "Os irmãos Edward e Alphonse Elric tentam usar alquimia para trazer a mãe de volta à vida, mas pagam um preço alto. Eles embarcam numa jornada para encontrar a Pedra Filosofal e recuperar seus corpos perdidos."
     }
 ]
+    
   

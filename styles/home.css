@@ -70,6 +70,9 @@ a:active, a:visited, a{
 }
 
 .barra-pesquisa{
+    padding-left: 15px;
+    font-size: 15px;
+    outline: none;
     width: 40%;
     height: 40px;
     border-radius: 20px 0 0 20px;
@@ -86,6 +89,7 @@ a:active, a:visited, a{
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .btnPesquisa img{
@@ -122,7 +126,7 @@ a:active, a:visited, a{
 
 .titulo-carousel{
     text-align: center;
-    margin: 30px 0 30px;
+    margin: 50px 0 30px;
 }
 
 .container-carrosel{
@@ -153,6 +157,7 @@ a:active, a:visited, a{
 .carrosel2 button{
     background-color: white;
     margin: 0 10px 0 10px;
+    cursor: pointer;
 }
 
 .pesquisa{
@@ -179,9 +184,14 @@ a:active, a:visited, a{
 .layout{
     display: flex;
     flex-direction: column;
-    padding-top: 150px;
+    padding-top: 30px;
     justify-content: center;
     align-items: center;
+}
+
+.titulo-conteudo{
+    margin-top: 40px;
+    text-align: center;
 }
 
 .filtros-conteudos{
@@ -234,7 +244,7 @@ a:active, a:visited, a{
     display: flex;
     width: 60%;
     gap: 20px;
-    box-shadow: 2px 2px 8px 0px #00000057;
+    border: #838383 solid 1px;
     border-radius: 5px;
     padding: 15px;
 }
@@ -246,7 +256,7 @@ a:active, a:visited, a{
 }
 
 .livro h1{
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -272,5 +282,3 @@ a:active, a:visited, a{
 }
 
 /* Login */
-
-.lo

@@ -8,6 +8,11 @@
             return array_filter($livros, function($livros) use ($filtro){ //O array_filter é usado para filtrar o array e o use traz a variavel de fora da função pra dentro
                 return $livros['genero'] == $filtro;
             });
+        }else if(isset($_GET['pesquisa']) && $_GET['pesquisa'] !== ''){
+            $pesquisa = $_GET['pesquisa'];
+            $livros = array_filter($livros, function($livros) use ($pesquisa){
+                return str_contains($pesquisa, $livros['titulo']);
+            });
         }
         
         return $livros;
@@ -16,6 +21,7 @@
     $livrosFiltrados = verificaLivro($livros);
 ?>
 
+<h2 class="titulo-conteudo">Todos os livros</h2>
 <div class="layout">
     <form action="../pages/livro.php" class="conteudo">
         <?php foreach($livrosFiltrados as $livro): ?>
@@ -24,7 +30,7 @@
             <h3><?php echo strlen($livro['titulo']) > 15? substr($livro['titulo'], 0, 15). "...": $livro['titulo'] ?></h3>
             <div class="informacoes">
                 <p><?php echo $livro['anoPublicacao']; ?></p>
-                <p><?php echo $livro['autor']; ?></p>
+                <p><?php echo strlen($livro['autor']) > 15? substr($livro['autor'], 0, 15). "...": $livro['autor'];?></p>
             </div>
             <button name="id" value="<?php echo $livro['id']; ?>">Ver mais</button>
         </div>

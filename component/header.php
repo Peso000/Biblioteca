@@ -1,10 +1,10 @@
 <?php session_start(); ?>
 
 <header>
-    <div class="titulos">
-        <input class="barra-pesquisa" type="text">
+    <form action="../pages/index.php" method="GET" class="titulos">
+        <input class="barra-pesquisa" type="text" name="pesquisa">
         <button class="btnPesquisa"><img src="../images/icons8-pesquisar-50.png" alt=""></button>
-    </div>
+    </form>
     <div>
         <div class="filtros">
             <form action="../pages/index.php" method="GET">
@@ -26,7 +26,7 @@
     <?php else: ?>
         <a href="../pages/login.php" class="btnLogin">Login</a>
     <?php endif; ?>
-    <?php if(isset($_GET['filtro'])): ?>
+    <?php if(isset($_GET['filtro']) || isset($_GET['pesquisa'])): ?>
         <a href="../pages/index.php" class="limpa-filtro">Limpar filtros</a>
     <?php endif; ?>
 </header>
