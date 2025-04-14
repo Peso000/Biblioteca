@@ -9,7 +9,7 @@
 <h2 class="titulo-carousel">Livros Em Destaque</h2>
 <div class="box-carousel">
     <div class="carrosel2">
-        <button onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
+        <button class="btnPassar" onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
         <form  class="items-carrosel2"action="../pages/livro.php" method="get">
             <div class="container-carrosel">
                 <?php for($i = 0; $i < 10; $i++): ?>
@@ -20,19 +20,19 @@
                             <p><?php echo $livros[$i]['anoPublicacao']; ?></p>
                             <p><?php echo $livros[$i]['autor'] ?></p>
                         </div>
-                        <button name="id" value="<?php echo $livros[$i]["id"]; ?>">Ver mais</button>
+                        <button class="btnEnviar" name="id" value="<?php echo $livros[$i]["id"]; ?>">Ver mais</button>
                     </div>
                 <?php endfor; ?>
             </div>
         </form>
-        <button onclick="proximo(event)"><img src="../images/proximo.png" alt=""></button>
+        <button class="btnPassar" onclick="proximo(event)"><img src="../images/proximo.png" alt=""></button>
     </div>
 </div>
 
 <h2 class="titulo-carousel">Best-sellers</h2>
 <div class="box-carousel">
     <div class="carrosel2">
-        <button onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
+        <button class="btnPassar" onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
         <form class="items-carrosel2" action="../pages/livro.php" method="get">
             <div class="container-carrosel">
                 <?php for($i = 10; $i < 20; $i++): ?>
@@ -43,19 +43,19 @@
                             <p><?php echo $livros[$i]['anoPublicacao']; ?></p>
                             <p><?php echo $livros[$i]['autor'] ?></p>
                         </div>
-                        <button name="id" value="<?php echo $livros[$i]["id"]; ?>">Ver mais</button>
+                        <button class="btnEnviar" name="id" value="<?php echo $livros[$i]["id"]; ?>">Ver mais</button>
                     </div>
                 <?php endfor; ?>
             </div>
         </form>
-        <button onclick="proximo(event)"><img src="../images/proximo.png" alt=""></button>
+        <button class="btnPassar" onclick="proximo(event)"><img src="../images/proximo.png" alt=""></button>
     </div>
 </div>
 
 <h2 class="titulo-carousel">Fazendo sucesso</h2>
 <div class="box-carousel">
     <div class="carrosel2">
-        <button onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
+        <button class="btnPassar" onclick="anterior(event)"><img src="../images/proximo.png" alt="" class="rotacionado"></button>
         <form class="items-carrosel2" action="../pages/livro.php" method="get">
             <div class="container-carrosel">
                 <?php for($i = 20; $i < 30; $i++): ?>
@@ -66,12 +66,12 @@
                             <p><?php echo $livros[$i]['anoPublicacao']; ?></p>
                             <p><?php echo strlen($livros[$i]['autor']) > 15? substr($livros[$i]['autor'], 0, 15). "...": $livros[$i]['autor'];?></p>
                         </div>
-                        <button name="id" value="<?php echo $livros[$i]["id"]; ?>">Ver mais</button>
+                        <button class="btnEnviar" name="id" value="<?php echo $livros[$i]["id"]; ?>">Ver mais</button>
                     </div>
                 <?php endfor; ?>
             </div>
         </form>
-        <button onclick="proximo(event)"><img src="../images/proximo.png" alt=""></button>
+        <button class="btnPassar" onclick="proximo(event)"><img src="../images/proximo.png" alt=""></button>
     </div>
 </div>
 

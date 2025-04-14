@@ -4,7 +4,8 @@
     require_once('../functions/funcoes.php');
 
     $livros = buscaLivros();
-    if(isset($_SESSION['livros'])){
+
+    if(isset($_SESSION['livros']) && isset($_SESSION['livros'][$_GET['id']])){
         $livroSecao = $_SESSION['livros'][$_GET['id']];
     }
     

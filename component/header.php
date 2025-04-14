@@ -20,7 +20,7 @@
             </form>
         </div>
     </div>
-    <?php if(isset($_SESSION['usuario']) && $_SESSION['usuario'] == "admin"): ?>
+    <?php if(isset($_SESSION['usuario']) && $_SESSION['usuario'] == "adm"): ?>
         <a href="../pages/fazLogout.php" class="btnLogin">Logout</a>
         <?php if($_SERVER['REQUEST_URI'] !== '/Biblioteca-master/pages/cadastroLivro.php'): ?>
             <a href="../pages/cadastroLivro.php" class="novoLivro">Novo Livro</a> 
