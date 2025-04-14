@@ -1,0 +1,1402 @@
+[
+  {
+    "titulo": "Facilis natus",
+    "autor": "Alexia Nogueira",
+    "ano_de_publicacao": 1996,
+    "genero": "HQ",
+    "preco": 42.74
+  },
+  {
+    "titulo": "Sit optio odio",
+    "autor": "Isadora Pires",
+    "ano_de_publicacao": 1965,
+    "genero": "Terror",
+    "preco": 24.7
+  },
+  {
+    "titulo": "Accusantium sint officiis harum",
+    "autor": "Letícia Lima",
+    "ano_de_publicacao": 1984,
+    "genero": "Psicologia",
+    "preco": 84.16
+  },
+  {
+    "titulo": "Enim voluptatibus suscipit odit",
+    "autor": "Nicolas da Costa",
+    "ano_de_publicacao": 2015,
+    "genero": "HQ",
+    "preco": 51.31
+  },
+  {
+    "titulo": "Cumque esse libero",
+    "autor": "Júlia Lopes",
+    "ano_de_publicacao": 1963,
+    "genero": "HQ",
+    "preco": 32.1
+  },
+  {
+    "titulo": "Dolores enim tempora",
+    "autor": "Ian Araújo",
+    "ano_de_publicacao": 1982,
+    "genero": "HQ",
+    "preco": 66.73
+  },
+  {
+    "titulo": "Reiciendis deserunt dignissimos perferendis accusamus",
+    "autor": "Alana Ramos",
+    "ano_de_publicacao": 2018,
+    "genero": "HQ",
+    "preco": 22.42
+  },
+  {
+    "titulo": "Consequatur iusto dicta tenetur",
+    "autor": "Sra. Isabelly Fogaça",
+    "ano_de_publicacao": 1975,
+    "genero": "HQ",
+    "preco": 77.08
+  },
+  {
+    "titulo": "Porro voluptates facere",
+    "autor": "Juan Peixoto",
+    "ano_de_publicacao": 2016,
+    "genero": "Mangá",
+    "preco": 30.27
+  },
+  {
+    "titulo": "Sunt voluptatum incidunt in",
+    "autor": "Erick Alves",
+    "ano_de_publicacao": 1989,
+    "genero": "HQ",
+    "preco": 76.97
+  },
+  {
+    "titulo": "Repellendus voluptas sint",
+    "autor": "Danilo Viana",
+    "ano_de_publicacao": 1989,
+    "genero": "Empreendedorismo",
+    "preco": 64.16
+  },
+  {
+    "titulo": "Natus ut repellendus",
+    "autor": "Enzo Gabriel Caldeira",
+    "ano_de_publicacao": 1994,
+    "genero": "Mangá",
+    "preco": 21.93
+  },
+  {
+    "titulo": "Praesentium delectus distinctio facere maxime",
+    "autor": "Fernando Viana",
+    "ano_de_publicacao": 1977,
+    "genero": "Ficção",
+    "preco": 32.24
+  },
+  {
+    "titulo": "Tenetur earum",
+    "autor": "Srta. Maria Eduarda Dias",
+    "ano_de_publicacao": 1960,
+    "genero": "Empreendedorismo",
+    "preco": 42.65
+  },
+  {
+    "titulo": "Quibusdam dolores",
+    "autor": "Pietra Cunha",
+    "ano_de_publicacao": 2007,
+    "genero": "Ficção",
+    "preco": 67.57
+  },
+  {
+    "titulo": "Aspernatur excepturi",
+    "autor": "Vitor Gabriel da Paz",
+    "ano_de_publicacao": 2024,
+    "genero": "Terror",
+    "preco": 67.77
+  },
+  {
+    "titulo": "Dolorem saepe in autem",
+    "autor": "Srta. Beatriz Santos",
+    "ano_de_publicacao": 1971,
+    "genero": "Empreendedorismo",
+    "preco": 30.03
+  },
+  {
+    "titulo": "Molestias corrupti expedita vitae",
+    "autor": "Sarah Monteiro",
+    "ano_de_publicacao": 1997,
+    "genero": "Psicologia",
+    "preco": 92.21
+  },
+  {
+    "titulo": "Exercitationem hic voluptatum dicta consequuntur",
+    "autor": "Alexandre da Paz",
+    "ano_de_publicacao": 2021,
+    "genero": "Terror",
+    "preco": 45.87
+  },
+  {
+    "titulo": "Veritatis tenetur libero mollitia recusandae",
+    "autor": "Bárbara Cardoso",
+    "ano_de_publicacao": 2021,
+    "genero": "Psicologia",
+    "preco": 92.16
+  },
+  {
+    "titulo": "Beatae dolorum saepe eius totam",
+    "autor": "Luiza Moraes",
+    "ano_de_publicacao": 1976,
+    "genero": "Ação",
+    "preco": 57.03
+  },
+  {
+    "titulo": "Harum odio ab impedit dolor",
+    "autor": "Manuela Azevedo",
+    "ano_de_publicacao": 1977,
+    "genero": "Terror",
+    "preco": 76.95
+  },
+  {
+    "titulo": "Sit ab atque",
+    "autor": "Alice Cardoso",
+    "ano_de_publicacao": 2007,
+    "genero": "Mangá",
+    "preco": 51.74
+  },
+  {
+    "titulo": "Amet laborum inventore ex similique",
+    "autor": "Luiz Miguel da Mata",
+    "ano_de_publicacao": 2022,
+    "genero": "Terror",
+    "preco": 31.54
+  },
+  {
+    "titulo": "Repudiandae explicabo atque",
+    "autor": "Raul Lima",
+    "ano_de_publicacao": 1975,
+    "genero": "Ficção",
+    "preco": 86.15
+  },
+  {
+    "titulo": "Quasi exercitationem sapiente illo perferendis",
+    "autor": "Cecília da Cunha",
+    "ano_de_publicacao": 1957,
+    "genero": "Terror",
+    "preco": 46.59
+  },
+  {
+    "titulo": "Perferendis nostrum magnam vitae",
+    "autor": "João Pedro Mendes",
+    "ano_de_publicacao": 2011,
+    "genero": "Empreendedorismo",
+    "preco": 25.26
+  },
+  {
+    "titulo": "A illum asperiores maiores quibusdam",
+    "autor": "Agatha Cavalcanti",
+    "ano_de_publicacao": 1978,
+    "genero": "Ficção",
+    "preco": 64.07
+  },
+  {
+    "titulo": "Voluptatem aliquam repellat laborum",
+    "autor": "Marcelo Araújo",
+    "ano_de_publicacao": 1998,
+    "genero": "Auto-ajuda",
+    "preco": 77.28
+  },
+  {
+    "titulo": "Nam iste",
+    "autor": "Srta. Carolina Rocha",
+    "ano_de_publicacao": 1962,
+    "genero": "Ação",
+    "preco": 71.82
+  },
+  {
+    "titulo": "Harum debitis dolore aut",
+    "autor": "Carlos Eduardo Santos",
+    "ano_de_publicacao": 2005,
+    "genero": "Auto-ajuda",
+    "preco": 81.89
+  },
+  {
+    "titulo": "Alias hic maxime",
+    "autor": "André Alves",
+    "ano_de_publicacao": 1960,
+    "genero": "Empreendedorismo",
+    "preco": 32.97
+  },
+  {
+    "titulo": "Accusantium esse doloremque soluta molestias",
+    "autor": "Camila Porto",
+    "ano_de_publicacao": 1956,
+    "genero": "HQ",
+    "preco": 96.55
+  },
+  {
+    "titulo": "Autem expedita veniam magni",
+    "autor": "Leandro Rodrigues",
+    "ano_de_publicacao": 2021,
+    "genero": "Ação",
+    "preco": 55.07
+  },
+  {
+    "titulo": "Modi qui",
+    "autor": "Laís Ferreira",
+    "ano_de_publicacao": 2017,
+    "genero": "HQ",
+    "preco": 33.82
+  },
+  {
+    "titulo": "Amet deleniti adipisci",
+    "autor": "Ana Vitória da Cunha",
+    "ano_de_publicacao": 1962,
+    "genero": "Terror",
+    "preco": 74.87
+  },
+  {
+    "titulo": "Ullam reprehenderit doloribus",
+    "autor": "Sr. Vitor Gabriel Fernandes",
+    "ano_de_publicacao": 1979,
+    "genero": "Empreendedorismo",
+    "preco": 70.54
+  },
+  {
+    "titulo": "Perferendis vel amet",
+    "autor": "Bryan Nunes",
+    "ano_de_publicacao": 2002,
+    "genero": "Auto-ajuda",
+    "preco": 50.48
+  },
+  {
+    "titulo": "Ducimus accusamus dolore",
+    "autor": "Gustavo Ramos",
+    "ano_de_publicacao": 1954,
+    "genero": "Empreendedorismo",
+    "preco": 94.65
+  },
+  {
+    "titulo": "Eum asperiores et aliquam",
+    "autor": "Maria Cecília Ferreira",
+    "ano_de_publicacao": 1983,
+    "genero": "Mangá",
+    "preco": 20.03
+  },
+  {
+    "titulo": "Aliquid perspiciatis labore deserunt",
+    "autor": "Davi Pereira",
+    "ano_de_publicacao": 2001,
+    "genero": "Auto-ajuda",
+    "preco": 60.07
+  },
+  {
+    "titulo": "Magni soluta modi",
+    "autor": "Marcos Vinicius Lima",
+    "ano_de_publicacao": 2004,
+    "genero": "Ficção",
+    "preco": 93.97
+  },
+  {
+    "titulo": "Vel vero commodi alias aut",
+    "autor": "Nicolas Melo",
+    "ano_de_publicacao": 2023,
+    "genero": "Aventura",
+    "preco": 69.91
+  },
+  {
+    "titulo": "Ipsam quas sint",
+    "autor": "Clara Nunes",
+    "ano_de_publicacao": 2016,
+    "genero": "Mangá",
+    "preco": 87.21
+  },
+  {
+    "titulo": "Doloremque occaecati aperiam explicabo",
+    "autor": "Renan Farias",
+    "ano_de_publicacao": 1975,
+    "genero": "HQ",
+    "preco": 37.87
+  },
+  {
+    "titulo": "Consectetur aspernatur labore",
+    "autor": "Juliana da Rocha",
+    "ano_de_publicacao": 1956,
+    "genero": "Auto-ajuda",
+    "preco": 97.0
+  },
+  {
+    "titulo": "Eaque earum saepe ea",
+    "autor": "Juan Cavalcanti",
+    "ano_de_publicacao": 1992,
+    "genero": "Auto-ajuda",
+    "preco": 98.03
+  },
+  {
+    "titulo": "Perferendis voluptate nulla iusto",
+    "autor": "Bárbara Mendes",
+    "ano_de_publicacao": 2007,
+    "genero": "Ficção",
+    "preco": 98.06
+  },
+  {
+    "titulo": "Pariatur reiciendis eos suscipit magnam",
+    "autor": "Danilo da Mata",
+    "ano_de_publicacao": 1966,
+    "genero": "Aventura",
+    "preco": 62.46
+  },
+  {
+    "titulo": "Mollitia tenetur voluptatem asperiores consectetur",
+    "autor": "Antônio Oliveira",
+    "ano_de_publicacao": 1961,
+    "genero": "Terror",
+    "preco": 31.47
+  },
+  {
+    "titulo": "Culpa libero eum",
+    "autor": "Levi da Cruz",
+    "ano_de_publicacao": 1973,
+    "genero": "Psicologia",
+    "preco": 71.12
+  },
+  {
+    "titulo": "Qui quidem et",
+    "autor": "Noah Silva",
+    "ano_de_publicacao": 1988,
+    "genero": "Auto-ajuda",
+    "preco": 88.68
+  },
+  {
+    "titulo": "Soluta nam incidunt asperiores cumque",
+    "autor": "Ana Vitória Nunes",
+    "ano_de_publicacao": 1954,
+    "genero": "Mangá",
+    "preco": 36.1
+  },
+  {
+    "titulo": "Quae nulla",
+    "autor": "Cauê Alves",
+    "ano_de_publicacao": 1968,
+    "genero": "Auto-ajuda",
+    "preco": 40.51
+  },
+  {
+    "titulo": "Exercitationem repellat velit culpa",
+    "autor": "Maria Julia Carvalho",
+    "ano_de_publicacao": 2005,
+    "genero": "Aventura",
+    "preco": 24.96
+  },
+  {
+    "titulo": "Veritatis in quis repellat",
+    "autor": "Vitor Hugo Silva",
+    "ano_de_publicacao": 2015,
+    "genero": "Empreendedorismo",
+    "preco": 55.72
+  },
+  {
+    "titulo": "Perspiciatis veritatis in",
+    "autor": "Isabelly Nunes",
+    "ano_de_publicacao": 1992,
+    "genero": "Psicologia",
+    "preco": 88.9
+  },
+  {
+    "titulo": "Aut quis incidunt quaerat",
+    "autor": "Luigi Rodrigues",
+    "ano_de_publicacao": 1958,
+    "genero": "Terror",
+    "preco": 99.67
+  },
+  {
+    "titulo": "Corrupti nemo modi",
+    "autor": "Henrique Gonçalves",
+    "ano_de_publicacao": 1980,
+    "genero": "Aventura",
+    "preco": 39.04
+  },
+  {
+    "titulo": "Ad facere officia debitis repellendus",
+    "autor": "Sra. Letícia Caldeira",
+    "ano_de_publicacao": 2008,
+    "genero": "Mangá",
+    "preco": 58.89
+  },
+  {
+    "titulo": "At odio",
+    "autor": "Theo Pires",
+    "ano_de_publicacao": 2001,
+    "genero": "HQ",
+    "preco": 40.89
+  },
+  {
+    "titulo": "Magni hic quia",
+    "autor": "Eduarda Fernandes",
+    "ano_de_publicacao": 2013,
+    "genero": "Ação",
+    "preco": 81.73
+  },
+  {
+    "titulo": "Unde voluptates accusantium",
+    "autor": "Luiz Miguel Costela",
+    "ano_de_publicacao": 1999,
+    "genero": "Ficção",
+    "preco": 54.64
+  },
+  {
+    "titulo": "Asperiores recusandae deleniti laboriosam harum",
+    "autor": "Isis da Rosa",
+    "ano_de_publicacao": 1966,
+    "genero": "Ficção",
+    "preco": 74.54
+  },
+  {
+    "titulo": "Incidunt ad ut a",
+    "autor": "Thomas Jesus",
+    "ano_de_publicacao": 1980,
+    "genero": "Ficção",
+    "preco": 69.25
+  },
+  {
+    "titulo": "Consequatur veniam aut beatae inventore",
+    "autor": "Daniela da Paz",
+    "ano_de_publicacao": 2008,
+    "genero": "Mangá",
+    "preco": 46.25
+  },
+  {
+    "titulo": "Deleniti aliquid",
+    "autor": "Nicole Cavalcanti",
+    "ano_de_publicacao": 1975,
+    "genero": "Ação",
+    "preco": 68.21
+  },
+  {
+    "titulo": "Voluptas natus",
+    "autor": "Emilly Costela",
+    "ano_de_publicacao": 2001,
+    "genero": "Ação",
+    "preco": 38.81
+  },
+  {
+    "titulo": "Quaerat itaque fugit nulla",
+    "autor": "Nina da Rocha",
+    "ano_de_publicacao": 1967,
+    "genero": "Terror",
+    "preco": 73.55
+  },
+  {
+    "titulo": "Veritatis blanditiis",
+    "autor": "Juliana Farias",
+    "ano_de_publicacao": 1981,
+    "genero": "Psicologia",
+    "preco": 47.08
+  },
+  {
+    "titulo": "Adipisci non eum",
+    "autor": "Enzo Carvalho",
+    "ano_de_publicacao": 1953,
+    "genero": "Ação",
+    "preco": 65.74
+  },
+  {
+    "titulo": "Eligendi dolores praesentium",
+    "autor": "Dra. Ana Julia Barros",
+    "ano_de_publicacao": 2017,
+    "genero": "Aventura",
+    "preco": 91.38
+  },
+  {
+    "titulo": "Excepturi odio excepturi vero ea",
+    "autor": "Marcela Costa",
+    "ano_de_publicacao": 1958,
+    "genero": "Psicologia",
+    "preco": 81.1
+  },
+  {
+    "titulo": "Iure aliquid aliquam eius corrupti",
+    "autor": "Gabriel Melo",
+    "ano_de_publicacao": 1952,
+    "genero": "Auto-ajuda",
+    "preco": 81.97
+  },
+  {
+    "titulo": "Perferendis necessitatibus dolorum",
+    "autor": "Lorenzo Barbosa",
+    "ano_de_publicacao": 1952,
+    "genero": "Terror",
+    "preco": 57.96
+  },
+  {
+    "titulo": "Reprehenderit perspiciatis",
+    "autor": "Alexandre Barbosa",
+    "ano_de_publicacao": 2007,
+    "genero": "Empreendedorismo",
+    "preco": 38.77
+  },
+  {
+    "titulo": "Ducimus earum quibusdam suscipit",
+    "autor": "Ana Vitória Ramos",
+    "ano_de_publicacao": 2006,
+    "genero": "Ação",
+    "preco": 27.04
+  },
+  {
+    "titulo": "Quae illum culpa praesentium nesciunt",
+    "autor": "Marina Campos",
+    "ano_de_publicacao": 1972,
+    "genero": "Terror",
+    "preco": 81.63
+  },
+  {
+    "titulo": "Odio enim ipsa molestias illo",
+    "autor": "Yago Martins",
+    "ano_de_publicacao": 1970,
+    "genero": "Empreendedorismo",
+    "preco": 63.74
+  },
+  {
+    "titulo": "Consequuntur distinctio eius cupiditate ducimus",
+    "autor": "Bárbara Pinto",
+    "ano_de_publicacao": 1972,
+    "genero": "HQ",
+    "preco": 53.99
+  },
+  {
+    "titulo": "Temporibus saepe ipsam esse dolor",
+    "autor": "Laís Ribeiro",
+    "ano_de_publicacao": 1955,
+    "genero": "HQ",
+    "preco": 32.48
+  },
+  {
+    "titulo": "Nostrum quam quae",
+    "autor": "Maria Eduarda Viana",
+    "ano_de_publicacao": 2005,
+    "genero": "HQ",
+    "preco": 75.12
+  },
+  {
+    "titulo": "Atque ex",
+    "autor": "Nathan Martins",
+    "ano_de_publicacao": 1964,
+    "genero": "Aventura",
+    "preco": 36.1
+  },
+  {
+    "titulo": "Corrupti fugit placeat earum",
+    "autor": "Marina Dias",
+    "ano_de_publicacao": 1962,
+    "genero": "Aventura",
+    "preco": 64.69
+  },
+  {
+    "titulo": "Provident dolorum neque",
+    "autor": "Rodrigo Costela",
+    "ano_de_publicacao": 1997,
+    "genero": "Mangá",
+    "preco": 26.13
+  },
+  {
+    "titulo": "Est officia nobis",
+    "autor": "Sr. Levi Costela",
+    "ano_de_publicacao": 2021,
+    "genero": "Mangá",
+    "preco": 41.08
+  },
+  {
+    "titulo": "Perferendis odit nemo",
+    "autor": "João Lucas Vieira",
+    "ano_de_publicacao": 1953,
+    "genero": "Aventura",
+    "preco": 82.56
+  },
+  {
+    "titulo": "Quaerat et quos earum",
+    "autor": "Francisco Silva",
+    "ano_de_publicacao": 2020,
+    "genero": "Mangá",
+    "preco": 30.18
+  },
+  {
+    "titulo": "Non cum odit",
+    "autor": "Enzo Gabriel da Rocha",
+    "ano_de_publicacao": 1981,
+    "genero": "Mangá",
+    "preco": 32.6
+  },
+  {
+    "titulo": "Ipsum non eum a",
+    "autor": "Dr. André Cunha",
+    "ano_de_publicacao": 1975,
+    "genero": "HQ",
+    "preco": 60.68
+  },
+  {
+    "titulo": "Deserunt aliquid maiores optio",
+    "autor": "Gustavo Nunes",
+    "ano_de_publicacao": 2014,
+    "genero": "Auto-ajuda",
+    "preco": 68.87
+  },
+  {
+    "titulo": "Quo aliquam corrupti reprehenderit",
+    "autor": "Antônio da Mota",
+    "ano_de_publicacao": 1994,
+    "genero": "Empreendedorismo",
+    "preco": 41.5
+  },
+  {
+    "titulo": "Iure laborum dolores totam quo",
+    "autor": "Sra. Sophie Caldeira",
+    "ano_de_publicacao": 1996,
+    "genero": "Ficção",
+    "preco": 75.89
+  },
+  {
+    "titulo": "Consectetur eveniet",
+    "autor": "Ana Vitória Moraes",
+    "ano_de_publicacao": 2016,
+    "genero": "Ação",
+    "preco": 84.59
+  },
+  {
+    "titulo": "Quam ad aut ex itaque",
+    "autor": "Sr. Benjamin da Rosa",
+    "ano_de_publicacao": 1980,
+    "genero": "Ação",
+    "preco": 56.62
+  },
+  {
+    "titulo": "Ut nobis magnam",
+    "autor": "Mirella Barros",
+    "ano_de_publicacao": 1972,
+    "genero": "HQ",
+    "preco": 27.69
+  },
+  {
+    "titulo": "Accusamus enim assumenda",
+    "autor": "Kamilly Santos",
+    "ano_de_publicacao": 2012,
+    "genero": "Empreendedorismo",
+    "preco": 28.18
+  },
+  {
+    "titulo": "Officiis earum natus",
+    "autor": "Sr. Renan da Conceição",
+    "ano_de_publicacao": 1967,
+    "genero": "Aventura",
+    "preco": 21.5
+  },
+  {
+    "titulo": "Vel eveniet sequi",
+    "autor": "Maria Julia Costa",
+    "ano_de_publicacao": 1979,
+    "genero": "Psicologia",
+    "preco": 84.41
+  },
+  {
+    "titulo": "Alias ipsam neque molestiae",
+    "autor": "Ana Júlia da Mota",
+    "ano_de_publicacao": 1986,
+    "genero": "Auto-ajuda",
+    "preco": 92.82
+  },
+  {
+    "titulo": "Possimus doloribus ad unde eaque",
+    "autor": "Vitor Hugo da Mata",
+    "ano_de_publicacao": 1994,
+    "genero": "Ficção",
+    "preco": 93.39
+  },
+  {
+    "titulo": "Tenetur omnis et laudantium nihil",
+    "autor": "Maria Alice Vieira",
+    "ano_de_publicacao": 2008,
+    "genero": "Auto-ajuda",
+    "preco": 60.82
+  },
+  {
+    "titulo": "Est velit odit",
+    "autor": "João Vitor da Cunha",
+    "ano_de_publicacao": 1966,
+    "genero": "HQ",
+    "preco": 76.29
+  },
+  {
+    "titulo": "Voluptatibus perspiciatis totam voluptate voluptas",
+    "autor": "Dr. Luiz Henrique da Rosa",
+    "ano_de_publicacao": 1980,
+    "genero": "HQ",
+    "preco": 26.76
+  },
+  {
+    "titulo": "Pariatur quasi officia",
+    "autor": "Marina Oliveira",
+    "ano_de_publicacao": 2015,
+    "genero": "Aventura",
+    "preco": 92.47
+  },
+  {
+    "titulo": "Commodi optio",
+    "autor": "Dr. Luigi Silva",
+    "ano_de_publicacao": 1953,
+    "genero": "Empreendedorismo",
+    "preco": 42.1
+  },
+  {
+    "titulo": "Tenetur perferendis perferendis",
+    "autor": "Leandro Jesus",
+    "ano_de_publicacao": 1992,
+    "genero": "Mangá",
+    "preco": 87.04
+  },
+  {
+    "titulo": "Sunt excepturi recusandae",
+    "autor": "Pedro Miguel Fernandes",
+    "ano_de_publicacao": 2008,
+    "genero": "Ficção",
+    "preco": 41.86
+  },
+  {
+    "titulo": "Deleniti ex aliquid sunt",
+    "autor": "Benício Ramos",
+    "ano_de_publicacao": 2008,
+    "genero": "Auto-ajuda",
+    "preco": 95.29
+  },
+  {
+    "titulo": "Quibusdam quisquam commodi",
+    "autor": "Arthur Araújo",
+    "ano_de_publicacao": 1972,
+    "genero": "Ficção",
+    "preco": 94.1
+  },
+  {
+    "titulo": "Quaerat facere",
+    "autor": "Joaquim Duarte",
+    "ano_de_publicacao": 1957,
+    "genero": "Empreendedorismo",
+    "preco": 74.79
+  },
+  {
+    "titulo": "Iste velit molestiae repudiandae quam",
+    "autor": "Alexia Cardoso",
+    "ano_de_publicacao": 2000,
+    "genero": "Ação",
+    "preco": 47.58
+  },
+  {
+    "titulo": "Ab delectus",
+    "autor": "Larissa Sales",
+    "ano_de_publicacao": 1994,
+    "genero": "Ficção",
+    "preco": 70.33
+  },
+  {
+    "titulo": "Culpa aperiam",
+    "autor": "Luiz Otávio Porto",
+    "ano_de_publicacao": 1952,
+    "genero": "Auto-ajuda",
+    "preco": 49.23
+  },
+  {
+    "titulo": "Quidem excepturi",
+    "autor": "Sophie Nogueira",
+    "ano_de_publicacao": 1998,
+    "genero": "Auto-ajuda",
+    "preco": 79.94
+  },
+  {
+    "titulo": "Maxime modi officiis",
+    "autor": "Gustavo Henrique Caldeira",
+    "ano_de_publicacao": 1999,
+    "genero": "Auto-ajuda",
+    "preco": 62.89
+  },
+  {
+    "titulo": "Repellendus ad sint",
+    "autor": "Isabel Sales",
+    "ano_de_publicacao": 1960,
+    "genero": "Terror",
+    "preco": 23.95
+  },
+  {
+    "titulo": "Explicabo libero",
+    "autor": "Pedro Henrique da Mota",
+    "ano_de_publicacao": 1958,
+    "genero": "Terror",
+    "preco": 98.9
+  },
+  {
+    "titulo": "Neque doloremque quia",
+    "autor": "Guilherme Vieira",
+    "ano_de_publicacao": 2019,
+    "genero": "Terror",
+    "preco": 46.15
+  },
+  {
+    "titulo": "Maxime aspernatur",
+    "autor": "João Pedro Novaes",
+    "ano_de_publicacao": 1981,
+    "genero": "Empreendedorismo",
+    "preco": 80.84
+  },
+  {
+    "titulo": "Qui mollitia odit voluptates",
+    "autor": "Ana Clara Monteiro",
+    "ano_de_publicacao": 1999,
+    "genero": "Terror",
+    "preco": 29.59
+  },
+  {
+    "titulo": "Illo saepe quidem",
+    "autor": "Pedro Miguel Costa",
+    "ano_de_publicacao": 1984,
+    "genero": "Auto-ajuda",
+    "preco": 67.92
+  },
+  {
+    "titulo": "A labore repellendus",
+    "autor": "Augusto Pires",
+    "ano_de_publicacao": 1989,
+    "genero": "Ação",
+    "preco": 32.34
+  },
+  {
+    "titulo": "Voluptatum harum rem iste",
+    "autor": "Luiz Otávio da Luz",
+    "ano_de_publicacao": 2015,
+    "genero": "Ação",
+    "preco": 34.66
+  },
+  {
+    "titulo": "Suscipit voluptate harum",
+    "autor": "Heitor Araújo",
+    "ano_de_publicacao": 1980,
+    "genero": "HQ",
+    "preco": 91.92
+  },
+  {
+    "titulo": "Sunt facilis quas",
+    "autor": "Ana Vitória Moura",
+    "ano_de_publicacao": 1986,
+    "genero": "Psicologia",
+    "preco": 72.65
+  },
+  {
+    "titulo": "Consectetur porro alias",
+    "autor": "João Felipe da Paz",
+    "ano_de_publicacao": 2013,
+    "genero": "Psicologia",
+    "preco": 68.64
+  },
+  {
+    "titulo": "Ab doloremque nam sit",
+    "autor": "Eloah Cavalcanti",
+    "ano_de_publicacao": 1973,
+    "genero": "Mangá",
+    "preco": 99.38
+  },
+  {
+    "titulo": "At libero sapiente",
+    "autor": "Ana Sophia da Luz",
+    "ano_de_publicacao": 1989,
+    "genero": "Terror",
+    "preco": 41.25
+  },
+  {
+    "titulo": "Corrupti iure facere",
+    "autor": "Camila Ferreira",
+    "ano_de_publicacao": 1988,
+    "genero": "HQ",
+    "preco": 48.9
+  },
+  {
+    "titulo": "Itaque nostrum",
+    "autor": "Fernando Carvalho",
+    "ano_de_publicacao": 1964,
+    "genero": "HQ",
+    "preco": 66.72
+  },
+  {
+    "titulo": "Perspiciatis harum rem expedita",
+    "autor": "Srta. Elisa Ramos",
+    "ano_de_publicacao": 2017,
+    "genero": "Auto-ajuda",
+    "preco": 35.32
+  },
+  {
+    "titulo": "Ex error id fugit quis",
+    "autor": "Sr. Augusto Jesus",
+    "ano_de_publicacao": 2023,
+    "genero": "Ficção",
+    "preco": 72.8
+  },
+  {
+    "titulo": "Temporibus odio nemo",
+    "autor": "Emilly Souza",
+    "ano_de_publicacao": 2013,
+    "genero": "Auto-ajuda",
+    "preco": 98.62
+  },
+  {
+    "titulo": "Facilis sapiente nihil ipsa",
+    "autor": "Gustavo Melo",
+    "ano_de_publicacao": 1958,
+    "genero": "Ação",
+    "preco": 65.15
+  },
+  {
+    "titulo": "Cupiditate ea",
+    "autor": "Danilo Mendes",
+    "ano_de_publicacao": 2016,
+    "genero": "Psicologia",
+    "preco": 84.07
+  },
+  {
+    "titulo": "Voluptates modi accusamus nobis",
+    "autor": "Maria Cecília Caldeira",
+    "ano_de_publicacao": 1973,
+    "genero": "Terror",
+    "preco": 70.26
+  },
+  {
+    "titulo": "Animi dolor dolorem",
+    "autor": "Alícia Costa",
+    "ano_de_publicacao": 1997,
+    "genero": "Auto-ajuda",
+    "preco": 24.81
+  },
+  {
+    "titulo": "Facilis natus sit asperiores porro",
+    "autor": "Nathan Souza",
+    "ano_de_publicacao": 1952,
+    "genero": "Terror",
+    "preco": 73.29
+  },
+  {
+    "titulo": "Doloremque culpa eaque consequatur libero",
+    "autor": "Emilly Moraes",
+    "ano_de_publicacao": 1997,
+    "genero": "Mangá",
+    "preco": 93.48
+  },
+  {
+    "titulo": "Quidem nemo labore",
+    "autor": "Dr. Isaac Alves",
+    "ano_de_publicacao": 1990,
+    "genero": "Ficção",
+    "preco": 95.39
+  },
+  {
+    "titulo": "Magnam iste repellendus",
+    "autor": "Rafaela Ribeiro",
+    "ano_de_publicacao": 2000,
+    "genero": "Mangá",
+    "preco": 28.95
+  },
+  {
+    "titulo": "Alias provident quisquam ratione quod",
+    "autor": "Isabel Barros",
+    "ano_de_publicacao": 1954,
+    "genero": "Auto-ajuda",
+    "preco": 37.97
+  },
+  {
+    "titulo": "Magni neque id",
+    "autor": "Dr. João Pedro Fogaça",
+    "ano_de_publicacao": 2015,
+    "genero": "Terror",
+    "preco": 54.33
+  },
+  {
+    "titulo": "Ipsum assumenda tempora impedit soluta",
+    "autor": "Dr. Samuel Ribeiro",
+    "ano_de_publicacao": 2004,
+    "genero": "Mangá",
+    "preco": 92.19
+  },
+  {
+    "titulo": "Magni unde suscipit",
+    "autor": "Luiz Gustavo Oliveira",
+    "ano_de_publicacao": 1990,
+    "genero": "HQ",
+    "preco": 66.64
+  },
+  {
+    "titulo": "Quaerat neque magni",
+    "autor": "Levi Costa",
+    "ano_de_publicacao": 1994,
+    "genero": "Psicologia",
+    "preco": 85.43
+  },
+  {
+    "titulo": "Magni voluptates cum sapiente",
+    "autor": "Ana Julia Nunes",
+    "ano_de_publicacao": 1977,
+    "genero": "Psicologia",
+    "preco": 57.78
+  },
+  {
+    "titulo": "Voluptatibus aliquam",
+    "autor": "Sra. Kamilly Pinto",
+    "ano_de_publicacao": 1990,
+    "genero": "Ficção",
+    "preco": 38.53
+  },
+  {
+    "titulo": "Rerum quis",
+    "autor": "João Felipe Rocha",
+    "ano_de_publicacao": 2025,
+    "genero": "Terror",
+    "preco": 90.67
+  },
+  {
+    "titulo": "Suscipit soluta dignissimos",
+    "autor": "Catarina Moreira",
+    "ano_de_publicacao": 1954,
+    "genero": "Auto-ajuda",
+    "preco": 91.77
+  },
+  {
+    "titulo": "Molestiae sequi voluptatum totam",
+    "autor": "Pedro Miguel Mendes",
+    "ano_de_publicacao": 1999,
+    "genero": "Empreendedorismo",
+    "preco": 38.67
+  },
+  {
+    "titulo": "Nobis fugit facilis sit hic",
+    "autor": "Srta. Evelyn Costa",
+    "ano_de_publicacao": 1996,
+    "genero": "Ação",
+    "preco": 23.43
+  },
+  {
+    "titulo": "Sed error assumenda ex",
+    "autor": "Clara da Conceição",
+    "ano_de_publicacao": 1973,
+    "genero": "Auto-ajuda",
+    "preco": 97.9
+  },
+  {
+    "titulo": "Iusto voluptate",
+    "autor": "Pedro Lucas Moraes",
+    "ano_de_publicacao": 1959,
+    "genero": "Aventura",
+    "preco": 52.87
+  },
+  {
+    "titulo": "Repellat exercitationem mollitia recusandae",
+    "autor": "Dra. Letícia Cunha",
+    "ano_de_publicacao": 1988,
+    "genero": "Ficção",
+    "preco": 75.26
+  },
+  {
+    "titulo": "Itaque aliquam nihil ratione",
+    "autor": "Bárbara Aragão",
+    "ano_de_publicacao": 1979,
+    "genero": "Terror",
+    "preco": 88.9
+  },
+  {
+    "titulo": "Veniam eius",
+    "autor": "Maria Cecília Sales",
+    "ano_de_publicacao": 2016,
+    "genero": "Mangá",
+    "preco": 35.62
+  },
+  {
+    "titulo": "Hic soluta delectus consectetur",
+    "autor": "Marcela Nunes",
+    "ano_de_publicacao": 2012,
+    "genero": "Ficção",
+    "preco": 65.47
+  },
+  {
+    "titulo": "Delectus libero reiciendis vel",
+    "autor": "Sr. Otávio Jesus",
+    "ano_de_publicacao": 1975,
+    "genero": "HQ",
+    "preco": 82.81
+  },
+  {
+    "titulo": "Sed ut ut",
+    "autor": "Marcela Costa",
+    "ano_de_publicacao": 1975,
+    "genero": "Auto-ajuda",
+    "preco": 65.51
+  },
+  {
+    "titulo": "Consectetur reiciendis enim",
+    "autor": "Carlos Eduardo Aragão",
+    "ano_de_publicacao": 2013,
+    "genero": "Ação",
+    "preco": 25.39
+  },
+  {
+    "titulo": "Necessitatibus nihil corrupti enim minima",
+    "autor": "Bruna Aragão",
+    "ano_de_publicacao": 1994,
+    "genero": "Ação",
+    "preco": 48.96
+  },
+  {
+    "titulo": "At beatae veniam omnis",
+    "autor": "Natália Dias",
+    "ano_de_publicacao": 2016,
+    "genero": "Psicologia",
+    "preco": 96.1
+  },
+  {
+    "titulo": "Necessitatibus atque animi numquam",
+    "autor": "Sr. Yago Ferreira",
+    "ano_de_publicacao": 2002,
+    "genero": "Mangá",
+    "preco": 43.82
+  },
+  {
+    "titulo": "Sit quas quo occaecati",
+    "autor": "Srta. Raquel Campos",
+    "ano_de_publicacao": 1993,
+    "genero": "Mangá",
+    "preco": 78.16
+  },
+  {
+    "titulo": "Fuga qui beatae",
+    "autor": "Samuel Pereira",
+    "ano_de_publicacao": 1988,
+    "genero": "Aventura",
+    "preco": 85.39
+  },
+  {
+    "titulo": "Aliquid debitis",
+    "autor": "Maria Cecília Caldeira",
+    "ano_de_publicacao": 1976,
+    "genero": "Ficção",
+    "preco": 72.27
+  },
+  {
+    "titulo": "Assumenda deleniti distinctio",
+    "autor": "João Gabriel Costa",
+    "ano_de_publicacao": 1994,
+    "genero": "Terror",
+    "preco": 95.14
+  },
+  {
+    "titulo": "Voluptatum dolores delectus consequuntur unde",
+    "autor": "Isabella da Conceição",
+    "ano_de_publicacao": 2013,
+    "genero": "HQ",
+    "preco": 66.8
+  },
+  {
+    "titulo": "Ratione suscipit eaque aliquam quia",
+    "autor": "Sra. Amanda Santos",
+    "ano_de_publicacao": 1964,
+    "genero": "Empreendedorismo",
+    "preco": 57.07
+  },
+  {
+    "titulo": "Repudiandae maiores rerum architecto",
+    "autor": "Sophia da Mota",
+    "ano_de_publicacao": 2019,
+    "genero": "Terror",
+    "preco": 71.24
+  },
+  {
+    "titulo": "Dolorem soluta quidem ratione",
+    "autor": "Emanuelly Souza",
+    "ano_de_publicacao": 1966,
+    "genero": "HQ",
+    "preco": 89.83
+  },
+  {
+    "titulo": "Alias dolores excepturi",
+    "autor": "Davi Lucas Monteiro",
+    "ano_de_publicacao": 1964,
+    "genero": "Aventura",
+    "preco": 67.82
+  },
+  {
+    "titulo": "Aut deleniti vel",
+    "autor": "Luiz Fernando Pereira",
+    "ano_de_publicacao": 2000,
+    "genero": "HQ",
+    "preco": 89.85
+  },
+  {
+    "titulo": "Itaque at natus",
+    "autor": "Emanuella Moraes",
+    "ano_de_publicacao": 2002,
+    "genero": "Terror",
+    "preco": 85.67
+  },
+  {
+    "titulo": "Deserunt possimus exercitationem ratione",
+    "autor": "Srta. Luana Santos",
+    "ano_de_publicacao": 1998,
+    "genero": "Aventura",
+    "preco": 23.79
+  },
+  {
+    "titulo": "Reprehenderit asperiores",
+    "autor": "Sophia Aragão",
+    "ano_de_publicacao": 1993,
+    "genero": "Empreendedorismo",
+    "preco": 21.47
+  },
+  {
+    "titulo": "Aliquid deserunt ipsa rerum",
+    "autor": "Vitor Gabriel Melo",
+    "ano_de_publicacao": 1989,
+    "genero": "Aventura",
+    "preco": 53.48
+  },
+  {
+    "titulo": "Itaque eveniet deserunt",
+    "autor": "Heitor das Neves",
+    "ano_de_publicacao": 1967,
+    "genero": "Ficção",
+    "preco": 37.88
+  },
+  {
+    "titulo": "Tenetur ducimus provident sed",
+    "autor": "Heloísa Aragão",
+    "ano_de_publicacao": 1978,
+    "genero": "Ficção",
+    "preco": 89.71
+  },
+  {
+    "titulo": "Eaque unde debitis accusantium delectus",
+    "autor": "Isabel da Luz",
+    "ano_de_publicacao": 1989,
+    "genero": "Auto-ajuda",
+    "preco": 79.21
+  },
+  {
+    "titulo": "Aspernatur non sint vitae",
+    "autor": "Srta. Marcela Moraes",
+    "ano_de_publicacao": 1985,
+    "genero": "Empreendedorismo",
+    "preco": 66.04
+  },
+  {
+    "titulo": "Omnis sit vel sequi",
+    "autor": "Vitor Hugo Correia",
+    "ano_de_publicacao": 1961,
+    "genero": "Psicologia",
+    "preco": 40.56
+  },
+  {
+    "titulo": "Repudiandae at sit rem odit",
+    "autor": "Luiz Henrique Santos",
+    "ano_de_publicacao": 1958,
+    "genero": "Terror",
+    "preco": 66.81
+  },
+  {
+    "titulo": "Nulla accusantium dolore excepturi nihil",
+    "autor": "Lucas Nogueira",
+    "ano_de_publicacao": 1964,
+    "genero": "Aventura",
+    "preco": 86.82
+  },
+  {
+    "titulo": "Ullam fugiat placeat",
+    "autor": "Lucas Nunes",
+    "ano_de_publicacao": 1953,
+    "genero": "Terror",
+    "preco": 89.34
+  },
+  {
+    "titulo": "Officia nesciunt unde",
+    "autor": "Bruno Pereira",
+    "ano_de_publicacao": 2014,
+    "genero": "Mangá",
+    "preco": 37.32
+  },
+  {
+    "titulo": "Ratione ex corrupti harum",
+    "autor": "Srta. Maria Fernanda Teixeira",
+    "ano_de_publicacao": 2001,
+    "genero": "Terror",
+    "preco": 99.81
+  },
+  {
+    "titulo": "Vitae temporibus excepturi id deleniti",
+    "autor": "Elisa Azevedo",
+    "ano_de_publicacao": 2006,
+    "genero": "Terror",
+    "preco": 26.33
+  },
+  {
+    "titulo": "Laboriosam id nemo eius ut",
+    "autor": "Bruna Rodrigues",
+    "ano_de_publicacao": 1971,
+    "genero": "Empreendedorismo",
+    "preco": 99.63
+  },
+  {
+    "titulo": "Fugit maxime consequuntur asperiores deserunt",
+    "autor": "Sophia Cardoso",
+    "ano_de_publicacao": 1982,
+    "genero": "Terror",
+    "preco": 60.77
+  },
+  {
+    "titulo": "Autem magni",
+    "autor": "João Gabriel da Rosa",
+    "ano_de_publicacao": 2014,
+    "genero": "Aventura",
+    "preco": 79.8
+  },
+  {
+    "titulo": "Adipisci nobis saepe",
+    "autor": "João Martins",
+    "ano_de_publicacao": 1950,
+    "genero": "HQ",
+    "preco": 69.35
+  },
+  {
+    "titulo": "Laborum repudiandae tempore possimus",
+    "autor": "Vitória Costa",
+    "ano_de_publicacao": 1969,
+    "genero": "Ação",
+    "preco": 76.43
+  },
+  {
+    "titulo": "Natus perspiciatis tempore aspernatur",
+    "autor": "Daniel Alves",
+    "ano_de_publicacao": 2015,
+    "genero": "Aventura",
+    "preco": 99.12
+  },
+  {
+    "titulo": "Officia minima dolorum officiis",
+    "autor": "Henrique Gonçalves",
+    "ano_de_publicacao": 1952,
+    "genero": "Ficção",
+    "preco": 39.32
+  },
+  {
+    "titulo": "Maxime sapiente",
+    "autor": "Heitor da Mata",
+    "ano_de_publicacao": 1955,
+    "genero": "Aventura",
+    "preco": 37.81
+  },
+  {
+    "titulo": "Impedit tempora",
+    "autor": "Joana Nunes",
+    "ano_de_publicacao": 2007,
+    "genero": "Psicologia",
+    "preco": 40.68
+  },
+  {
+    "titulo": "Nam deserunt",
+    "autor": "Srta. Júlia Moura",
+    "ano_de_publicacao": 1973,
+    "genero": "Mangá",
+    "preco": 46.42
+  }
+]
