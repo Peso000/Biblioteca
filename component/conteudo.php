@@ -1,29 +1,31 @@
 <?php 
-    $jsonString = file_get_contents("../bd/banco.json"); //Lê o arquivo json e transforma em string
-    $livros = json_decode($jsonString, true); //Transforma a string em um array associativo
-   
-    function verificaLivro($livros){
-        if(isset($_GET['filtro']) && $_GET['filtro'] !== ''){
-            $filtro = $_GET['filtro'];
-            return array_filter($livros, function($livros) use ($filtro){ //O array_filter é usado para filtrar o array e o use traz a variavel de fora da função pra dentro
-                return $livros['genero'] == $filtro;
-            });
-        }else if(isset($_GET['pesquisa']) && $_GET['pesquisa'] !== ''){
-            $pesquisa = $_GET['pesquisa'];
-            $livros = array_filter($livros, function($livros) use ($pesquisa){
-                return str_contains($pesquisa, $livros['titulo']);
-            });
-        }
-        
-        return $livros;
-    }
 
-    $livrosFiltrados = verificaLivro($livros);
+    require_once("../functions/funcoes.php");
+    
+    $livros = buscaLivros();
+
+    $filtro = $_GET['filtro'] ?? '';
+    $pesquisa = $_GET['pesquisa'] ?? '';
+
+    $livrosFiltrados = filtraLivros($livros, $filtro, $pesquisa);
+
 ?>
 
-<h2 class="titulo-conteudo">Todos os livros</h2>
+<h2 class="titulo-conteudo"><?php echo $filtro == '' ? "Todos os livros" : "Livros de " . ucfirst($filtro); ?></h2>
 <div class="layout">
     <form action="../pages/livro.php" class="conteudo">
+        <?php if(isset($_SESSION['livros'])): for($i = 0; $i < count($_SESSION['livros']); $i++): ?>
+            <div class="card">
+                <img src="<?php echo $_SESSION['livros'][$i]['imagem']; ?>" alt="imagem_do_livro">
+                <h3><?php echo strlen($_SESSION['livros'][$i]['titulo']) > 15? substr($_SESSION['livros'][$i]['titulo'], 0, 15). "...": $_SESSION['livros'][$i]['titulo'] ?></h3>
+                <div class="informacoes">
+                    <p><?php echo $_SESSION['livros'][$i]['anoPublicacao']; ?></p>
+                    <p><?php echo strlen($_SESSION['livros'][$i]['autor']) > 15? substr($_SESSION['livros'][$i]['autor'], 0, 15). "...": $_SESSION['livros'][$i]['autor'];?></p>
+                </div>
+                <input type="text" name="secao" value="true" hidden>
+                <button name="id" value="<?php echo $i; ?>">Ver mais</button>
+            </div>
+        <?php endfor; endif; ?>
         <?php foreach($livrosFiltrados as $livro): ?>
         <div class="card">
             <img src="<?php echo $livro['imagem']; ?>" alt="imagem_do_livro">

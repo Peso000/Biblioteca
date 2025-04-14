@@ -21,8 +21,10 @@
         </div>
     </div>
     <?php if(isset($_SESSION['usuario']) && $_SESSION['usuario'] == "admin"): ?>
-        <a href="../pages/index.php" class="btnLogin">Logout</a>
-        <a href="../pages/cadastroLivro.php" class="novoLivro">Novo Livro</a>
+        <a href="../pages/fazLogout.php" class="btnLogin">Logout</a>
+        <?php if($_SERVER['REQUEST_URI'] !== '/Biblioteca-master/pages/cadastroLivro.php'): ?>
+            <a href="../pages/cadastroLivro.php" class="novoLivro">Novo Livro</a> 
+        <?php endif;?>
     <?php else: ?>
         <a href="../pages/login.php" class="btnLogin">Login</a>
     <?php endif; ?>

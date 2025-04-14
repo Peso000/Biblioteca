@@ -333,6 +333,18 @@ a:active, a:visited, a{
     background: transparent;
 }
 
+.box .user-box select {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    outline: none;
+    background: transparent;
+}
+
 .box .user-box label {
     position: absolute;
     top: 0;
@@ -352,7 +364,8 @@ a:active, a:visited, a{
     font-size: 12px;
 }
 
-.box form a {
+.box form button {
+    background-color: #1696A5;
     position: relative;
     display: inline-block;
     padding: 10px 20px;
@@ -363,9 +376,10 @@ a:active, a:visited, a{
     transition: .5s;
     margin-top: 40px;
     letter-spacing: 4px;
+    cursor: pointer;
 }
 
-.box a:hover {
+.box button:hover {
     background: #0c626b;
     color: #fff;
     border-radius: 5px;
@@ -374,4 +388,24 @@ a:active, a:visited, a{
         0 0 50px #0c626b,
         0 0 100px #0c626b;
 
+}
+
+.error{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.voltar, .voltar:visited{
+    display: flex;
+    font-size: 15px;
+    gap: 5px;
+    color: black;
+}
+
+.voltar img{
+    margin-bottom: 5px;
+}
+
+.voltar p{
+    margin-top: 3px;
 }

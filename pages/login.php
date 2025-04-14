@@ -8,24 +8,23 @@ include_once("../component/head.php");
 <img class="logo_login" src="../images/logo.png">
 <div class="login">
     <div class="box">
+        <a href="../pages/index.php" class="voltar">
+            <img src="../images/seta-esquerda.png" alt="seta_esquerda">
+            <p>Voltar</p>
+        </a>
         <h2>Login</h2>
-        <form action="../pages/fazLogin.php" method="get">
+        <p class="error"><?php if(isset($_SESSION['error'])) { echo $_SESSION['error']; } ?></p>
+        <form action="../pages/fazLogin.php" method="POST">
                 <div class="user-box">
-                    <input type="text" name="" required="">
-                    <label>Nome</label>
-                </div>
-                <div class="user-box">
-                    <input type="text" name="" required="">
+                    <input type="text" name="email" required="">
                     <label>Email</label>
                 </div>
                 <div class="user-box">
-                    <input type="password" name="" required="">
+                    <input type="password" name="senha" required="">
                     <label>Senha</label>
                 </div>
 
-                <a href="../pages/cadastroLivro.php">
-                    Entrar
-                </a>
+                <button type="submit">Entrar</button>
         </form>
     </div>
 </div>

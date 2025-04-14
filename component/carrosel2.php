@@ -1,7 +1,7 @@
 <?php
-
-    $json = file_get_contents('../bd/banco.json');
-    $livros = json_decode($json, true);
+    require_once("../functions/funcoes.php");
+        
+    $livros = buscaLivros();
 
     if(!isset($_GET['filtro']) && !isset($_GET['pesquisa'])):
 ?>
